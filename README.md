@@ -70,3 +70,4 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 60 | ["Tokelau": Delete from history](notes/delete_from_history.md) | `Bash` |
 | 61 | ["Zaragoza": Test changing critical files](notes/testing_change_critical_files.md) | `Mount` |
 | 62 | ["Fukuoka": Forbidden Association](notes/forbidden_association.md) | `Nginx` |
+| 63 | ["Nuuk": More SSH Troubles](notes/more_ssh_troubles.md) | `SSH` |
