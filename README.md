@@ -70,4 +70,13 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 60 | ["Tokelau": Delete from history](notes/delete_from_history.md) | `Bash` |
 | 61 | ["Zaragoza": Test changing critical files](notes/testing_change_critical_files.md) | `Mount` |
 | 62 | ["Fukuoka": Forbidden Association](notes/forbidden_association.md) | `Nginx` |
-| 63 | ["Nuuk": More SSH Troubles](notes/more_ssh_troubles.md) | `SSH` |
+| 63 | ["Poznań": Helm Chart Issue in Kubernetes](notes/helm_chart_k8s.md) | `Helm`, `Kubernetes` |
+| 64 | ["Bizerte": The Slow Application](notes/slow_app.md) | `Performance`, `Redis`, `Cache` |
+| 65 | ["Ruaka": Kubernetes pod in distress](notes/k8s_pod_in_distress.md) | `Kubernetes`, `Helm` |
+| 66 | ["Campina Grande": Give me my cert, Vault](notes/issue_cert_using_hc_vault.md) | `Hashicorp Vault`, `PKI` |
+| 67 | [Kampot: "A New Port"](notes/a_new_port.md) | `Nginx` |
+| 68 | ["Kampala": Strange Script Error](notes/strange_script_error.md) | `Dos2Unix` |
+| 69 | ["Bondo: Split my pile!](notes/split_my_pile.md) | `Disk`, `Inode` |
+| 70 | ["Atlantis": Not found](notes/not_found.md) | `Multi-Stage Build`, `C library` |
+| 71 | ["Amygdala": Do you have enough insight to see the secrets?](notes/insight_to_see_secret.md) | `Kubernetes`, `Vault` |
+| 72 | ["Nuuk": More SSH Troubles](notes/more_ssh_troubles.md) | `SSH` |
