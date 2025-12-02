@@ -82,3 +82,4 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 72 | ["Nuuk": More SSH Troubles](notes/more_ssh_troubles.md) | `SSH` |
 | 73 | ["Alexandria": The Vanishing Backups](notes/vanishing_backups.md) | `Mutex Lock`, `Crontab` |
 | 74 | ["Tunis": Redis Replication Problem](notes/redis_replication.md) | `Redis`, `Replication` |
+| 75 | ["Auderghem": containers miscommunication](notes/containers_miscommunication.md) | `Container`, `Nginx` |
