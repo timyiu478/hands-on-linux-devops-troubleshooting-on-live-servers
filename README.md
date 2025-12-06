@@ -83,3 +83,5 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 73 | ["Alexandria": The Vanishing Backups](notes/vanishing_backups.md) | `Mutex Lock`, `Crontab` |
 | 74 | ["Tunis": Redis Replication Problem](notes/redis_replication.md) | `Redis`, `Replication` |
 | 75 | ["Auderghem": containers miscommunication](notes/containers_miscommunication.md) | `Container`, `Nginx` |
+| 76 | ["Kortenberg": Can't touch this!](notes/cant_touch_this.md) | `Bash` |
+| 77 | ["Woluwe": Too many images](notes/too_many_images.md) | `Docker` |
