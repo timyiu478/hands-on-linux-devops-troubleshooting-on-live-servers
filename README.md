@@ -85,3 +85,4 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 75 | ["Auderghem": containers miscommunication](notes/containers_miscommunication.md) | `Container`, `Nginx` |
 | 76 | ["Kortenberg": Can't touch this!](notes/cant_touch_this.md) | `Bash` |
 | 77 | ["Woluwe": Too many images](notes/too_many_images.md) | `Docker` |
+| 78 | ["Sumé": Tied in a Knot](notes/tied_in_a_knot.md) | `DNS` |
