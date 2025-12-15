@@ -88,3 +88,4 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 78 | ["Sumé": Tied in a Knot](notes/tied_in_a_knot.md) | `DNS` |
 | 79 | ["La Rinconada": Elevating privileges](notes/elevating_privileges.md.md) | `sudo`, `less` |
 | 80 | ["Annapurna": High privileges](notes/high_privileges.md) | `Docker`, `Privilege escalation` |
+| 81 | ["Solanea": ClickHouse mad house](notes/clickhouse_mad_house.md) | `ClickHouse`, `Database`, `Kubernetes` |
