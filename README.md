@@ -89,3 +89,6 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 79 | ["La Rinconada": Elevating privileges](notes/elevating_privileges.md.md) | `sudo`, `less` |
 | 80 | ["Annapurna": High privileges](notes/high_privileges.md) | `Docker`, `Privilege escalation` |
 | 81 | ["Solanea": ClickHouse mad house](notes/clickhouse_mad_house.md) | `ClickHouse`, `Database`, `Kubernetes` |
+| 82 | ["Nerdearla Buenos Aires": Troubleshoot "A" no se conecta con "B"](notes/nerdearla.md) | `TODO` |
+| 83 | ["San Juan": mucho Traefik](notes/san_juan_nucho_traefik.md) | `Load Balancing`, `Container` |
+| 84 | ["Suzhou": MongoDB replicas!](notes/mongodb_replicas.md) | `MongoDB`, `Replication Set` |
