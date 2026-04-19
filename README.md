@@ -92,3 +92,5 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 82 | ["Nerdearla Buenos Aires": Troubleshoot "A" no se conecta con "B"](notes/nerdearla.md) | `iptables`, `Postgres`, `Environment Variables` |
 | 83 | ["San Juan": mucho Traefik](notes/san_juan_nucho_traefik.md) | `Load Balancing`, `Container` |
 | 84 | ["Suzhou": MongoDB replicas!](notes/mongodb_replicas.md) | `MongoDB`, `Replication Set` |
+| 85 | ["Valladolid": Cleaner not cleaning](notes/valladolid.md) | `systemd` |
+| 86 | ["Amsterdam": Cron Hijack](notes/cron_hijack.md) | `Hack` |
