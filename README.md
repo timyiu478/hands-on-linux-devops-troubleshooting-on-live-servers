@@ -95,3 +95,4 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 85 | ["Valladolid": Cleaner not cleaning](notes/valladolid.md) | `systemd` |
 | 86 | ["Amsterdam": Cron Hijack](notes/cron_hijack.md) | `Hack` |
 | 87 | ["Madrid": exploiting capabilities](notes/madrid.md) | `Hack` |
+| 88 | ["Anatolia": compromised server](notes/anatolia.md) | `Hack`, `File Attribute` |
