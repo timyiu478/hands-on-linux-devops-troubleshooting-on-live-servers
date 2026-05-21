@@ -96,3 +96,5 @@ This repository is a collection of troubleshooting notes for server issues encou
 | 86 | ["Amsterdam": Cron Hijack](notes/cron_hijack.md) | `Hack` |
 | 87 | ["Madrid": exploiting capabilities](notes/madrid.md) | `Hack` |
 | 88 | ["Anatolia": compromised server](notes/anatolia.md) | `Hack`, `File Attribute` |
+| 89 | ["Lyon": Migrate Ingress-NGINX to Traefik](notes/lyon.md) | `Kubernetes`, `Helm`, `Traefik` |
+| 90 | ["Cordoba": df is lying (or is it du?)](notes/cordoba.md) | `swap file`  |
